@@ -12,48 +12,45 @@ FIVE NIGHTS AT FREDDY’S
 ----------------------------------------------------------------
 
 
-
 *Instructions:
 
 
-  Download the FNAF.txt file
+  ---Download the FNAF.txt file
 
-  Go to https://py3.codeskulptor.org/#user309_dKOXMQf9NY_0.py
+  ---Go to https://py3.codeskulptor.org/#user309_dKOXMQf9NY_0.py
 
-  Load the file (load button on left)
+  ---Load the file (load button on left)
 
-  Hit RUN to start
+  ---Hit RUN to start
 
-  Zoom to best fit
+  ---Zoom to best fit
 
-  If you close the window, hit RESET
-
+  ---If you close the window, hit RESET
 
 
 *Cheats:
 
 
-  Press 1-5 to select a night to continue
+  ---Press 1-5 to select a night to continue
 
-  Press 6 to unlock night 6
+  ---Press 6 to unlock night 6
 
-  Press 7 to unlock custom night (Try 4/20 mode ;) )
+  ---Press 7 to unlock custom night (Try 4/20 mode ;) )
 
 
-  Press w to skip the night
+  ---Press w to skip the night
 
-  Press e to skip an hour and cut 15% power
+  ---Press e to skip an hour and cut 15% power
 
-  Press s to cut 25% power
-
+  ---Press s to cut 25% power
 
 
 *Gameplay:
 
 
-  Survive till 6am
+  ---Survive till 6am
 
-  Don’t run out of power
+  ---Don’t run out of power
 
-  Use equipment to stop threats
+  ---Use equipment to stop threats
 
