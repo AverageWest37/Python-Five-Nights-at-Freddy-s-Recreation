@@ -12,6 +12,7 @@ FIVE NIGHTS AT FREDDY’S
 ----------------------------------------------------------------
 
 
+
 *Instructions:
 
 
@@ -26,6 +27,7 @@ FIVE NIGHTS AT FREDDY’S
   Zoom to best fit
 
   If you close the window, hit RESET
+
 
 
 *Cheats:
@@ -43,6 +45,7 @@ FIVE NIGHTS AT FREDDY’S
   Press e to skip an hour and cut 15% power
 
   Press s to cut 25% power
+
 
 
 *Gameplay:
