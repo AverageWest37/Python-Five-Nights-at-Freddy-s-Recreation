@@ -2663,6 +2663,8 @@ def draw(canvas):
             PhoneMute = 1
             Ambience2.rewind()
             Ambience2.pause()
+            Ambience1.rewind()
+            Ambience1.pause()
             PowerOutSound.play()
             if PowerOutTimer > 5:
                 PowerOutTimer = 0
